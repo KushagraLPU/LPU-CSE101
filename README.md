@@ -1,2 +1,2 @@
-# LPU-CSE101
-Contains the 'C Language' program's on Dev c++
+# LPU-B.Tech(ECE)
+Contains the files of the work,I have done while doing B.Tech.
